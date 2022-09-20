@@ -1,0 +1,14 @@
+C:\Users\34662\source\repos\GenericsConsoleProject\obj\Debug\netcoreapp3.1\GenericsConsoleProject.csproj.AssemblyReference.cache
+C:\Users\34662\source\repos\GenericsConsoleProject\obj\Debug\netcoreapp3.1\GenericsConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34662\source\repos\GenericsConsoleProject\obj\Debug\netcoreapp3.1\GenericsConsoleProject.AssemblyInfoInputs.cache
+C:\Users\34662\source\repos\GenericsConsoleProject\obj\Debug\netcoreapp3.1\GenericsConsoleProject.AssemblyInfo.cs
+C:\Users\34662\source\repos\GenericsConsoleProject\obj\Debug\netcoreapp3.1\GenericsConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\34662\source\repos\GenericsConsoleProject\bin\Debug\netcoreapp3.1\GenericsConsoleProject.exe
+C:\Users\34662\source\repos\GenericsConsoleProject\bin\Debug\netcoreapp3.1\GenericsConsoleProject.deps.json
+C:\Users\34662\source\repos\GenericsConsoleProject\bin\Debug\netcoreapp3.1\GenericsConsoleProject.runtimeconfig.json
+C:\Users\34662\source\repos\GenericsConsoleProject\bin\Debug\netcoreapp3.1\GenericsConsoleProject.runtimeconfig.dev.json
+C:\Users\34662\source\repos\GenericsConsoleProject\bin\Debug\netcoreapp3.1\GenericsConsoleProject.dll
+C:\Users\34662\source\repos\GenericsConsoleProject\bin\Debug\netcoreapp3.1\GenericsConsoleProject.pdb
+C:\Users\34662\source\repos\GenericsConsoleProject\obj\Debug\netcoreapp3.1\GenericsConsoleProject.dll
+C:\Users\34662\source\repos\GenericsConsoleProject\obj\Debug\netcoreapp3.1\GenericsConsoleProject.pdb
+C:\Users\34662\source\repos\GenericsConsoleProject\obj\Debug\netcoreapp3.1\GenericsConsoleProject.genruntimeconfig.cache
